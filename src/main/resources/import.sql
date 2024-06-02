@@ -1,3 +1,0 @@
-INSERT INTO tb_food (NAME, REGION, DESCRIPTION, IMAGE_URL) VALUES ('Feijoada', 'Nordeste', 'Um prato típico brasileiro que contém feijão preto, carne de porco e arroz.', 'https://exemplo.com/imagens/acaraje.jpg');
-INSERT INTO tb_food (NAME, REGION, DESCRIPTION, IMAGE_URL) VALUES ('Acarajé', 'Centro-Oeste', 'Um prato típico da Bahia que é feito de bolinhos de feijão frito, recheados com vatapá, camarão e vinagrete.', 'https://exemplo.com/imagens/acaraje.jpg');
-INSERT INTO tb_food (NAME, REGION, DESCRIPTION, IMAGE_URL) VALUES ('Pão de queijo', 'Minas Gerais', 'Um prato típico de Minas Gerais que é feito de polvilho, queijo e ovos.', 'https://exemplo.com/imagens/paodequeijo.jpg');
